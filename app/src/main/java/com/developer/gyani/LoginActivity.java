@@ -14,6 +14,6 @@ public class LoginActivity extends AppCompatActivity {
         this.requestWindowFeature(Window.FEATURE_NO_TITLE);
         getSupportActionBar().hide();
         setContentView(R.layout.activity_login);
-        Toast.makeText(LoginActivity.this,"Login",Toast.LENGTH_SHORT).show();
+        Toast.makeText(LoginActivity.this,"Login1",Toast.LENGTH_SHORT).show();
     }
 }
